@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <div>人类高质量男性征友</div>
-        <img src={img} className="img-container"></img>
+        <img src={img} className="img-container" alt=""></img>
       </header>
     </div>
   );
