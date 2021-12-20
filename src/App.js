@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <div>Learn Nginx</div>
-        <div>Hello World 11122233</div>
+        <div>Hello World</div>
       </header>
     </div>
   );
